@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@humeai/voice-react": "^0.1.15",
-    "hume": "^0.8.10",
+    "@pinecone-database/pinecone": "^2.2.2",
     "@radix-ui/react-slot": "^1.0.2",
     "@radix-ui/react-switch": "^1.0.3",
     "@radix-ui/react-toggle": "^1.0.3",
@@ -23,6 +23,7 @@
     "hume": "^0.8.10",
     "lucide-react": "^0.394.0",
     "next": "14.2.3",
+    "openai": "^4.104.0",
     "react": "^18",
     "react-dom": "^18",
     "react-virtualized": "^9.22.5",
